@@ -28,11 +28,12 @@ https://github.com/rism-international/sistina
 <sub>[2018-07-18]</sub>  
 
 ### Spain
+ca. 3.000 records, Status: 10%
 https://github.com/rism-international/import/tree/master/Spain/input
 
 
 ### ÖNB
-Status: 0%  
+Status: 5%  
 Excel sheet with about 15.000 names, 60% linkage to GND  
 - [ ] create repository with data  
 - [ ] data analysis  
