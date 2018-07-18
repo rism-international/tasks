@@ -7,6 +7,7 @@
     3. [Rspec](#rspec)
     4. [Thesaurus](#thesaurus)  
     5. [Issues](#issues)  
+    6. [Prints](#prints)  
 2. [Import](#import)
     1. [ICCU](#iccu)
     2. [BNF](#bnf)
@@ -45,6 +46,8 @@ Should contain linkage to catalogue, standard_term; also including musical incip
 ### 4. Thesausus (2019)  <a name="thesaurus"></a>
 Status: 0%
 ### 5. Issues   <a name="issues"></a>
+### 6. Prints   <a name="prints"></a>
+- [ ] There should be an improved search for holdings  
 &nbsp;  
 
 ## 2. Import  <a name="import"></a>
