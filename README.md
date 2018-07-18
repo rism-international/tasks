@@ -22,7 +22,8 @@ Fix some A/I issues from old migration, see https://github.com/rism-internationa
 ### Data 
 ## Sysadmin  
 ### Mailserver
-There 
+Issue concerning long running mails: all plugins should be deactivated, also there should be a test concerning DNS.  
+<sub>[2018-07-18]</sub>  
 ### Webserver
 Write to Digitale Akademie concerning running old instances
 
