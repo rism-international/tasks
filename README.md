@@ -10,10 +10,10 @@ Should contain linkage to catalogue, standard_term; also including musical incip
 ### Issue tracking  
 
 ## Import
-### ICCU
-### BNF
+### ICCU (2018)
+### BNF (2018)
 ### Sistina
-### Eary motets
+### Early motet
 
 ## Maintenance  
 ### Migration
@@ -31,6 +31,8 @@ Rollout of Ubuntu 18.04 ca. **20180901**
 
 ## Interfaces
 ### Muscat API
+There should be a Restful API from Muscat with Rails 5.1, using serializers, with marc_source as json.
+
 ### PDF catalogue outprint 
 Catalogue of A-Sm about 20180801
 Make all-included dockerfile
