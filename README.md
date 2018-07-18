@@ -22,24 +22,25 @@ https://github.com/rism-international/iccu
 
 ### 2. BNF (2018)
 Status: 60%  
-### Sistina
+
+### 3. Sistina
 Status: 20%
 https://github.com/rism-international/sistina  
 <sub>[2018-07-18]</sub>  
 
-### 3. Spain
+### 4. Spain
 ca. 3.000 records, Status: 10%
 https://github.com/rism-international/import/tree/master/Spain/input
 
 
-### 4. ÖNB
+### 5. ÖNB
 Status: 5%  
 Excel sheet with about 15.000 names, 60% linkage to GND  
 - [ ] create repository with data  
 - [ ] data analysis  
 <sub>[2018-07-18]</sub>  
-### 5. Cambridge University Library
-### 6. Fitzwilliam Museum
+### 6. Cambridge University Library
+### 7. Fitzwilliam Museum
 &nbsp;  
 
 
