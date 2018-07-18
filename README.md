@@ -1,10 +1,12 @@
 # RISM IT task list  
 
 ## Muscat Development  
-### Work model
+### Work model (2018)
+Should contain linkage to catalogue, standard_term; also including musical incipit, uri
+
 ### Validations
 ### Rspec
-### Thesausus
+### Thesausus (2019)
 ### Issue tracking  
 
 ## Import
@@ -20,5 +22,10 @@
 ## Interfaces
 ### Muscat API
 ### Sigla catalogue
+Updated at 20180710  
+
 ### BSB export
-Next on 20180720
+Last update 20180618, next on **20180720**
+
+### OPAC development
+Latest release on 20180716
