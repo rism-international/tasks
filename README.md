@@ -16,7 +16,10 @@ Should contain linkage to catalogue, standard_term; also including musical incip
 ### Eary motets
 
 ## Maintenance  
+### Migration
+Fix some A/I issues from old migration, see https://github.com/rism-international/a1
 
+### Data 
 ## Sysadmin  
 ### Mailserver
 There 
