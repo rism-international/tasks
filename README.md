@@ -1,11 +1,11 @@
 # RISM IT task list  
 
-## Muscat Development
+## Muscat Development  
 ### Work model
 ### Validations
 ### Rspec
 ### Thesausus
-### Issue tracking
+### Issue tracking  
 
 ## Import
 ### ICCU
@@ -13,10 +13,12 @@
 ### Sistina
 ### Eary motets
 
-## Maintenance
+## Maintenance  
 
-## Sysadmin
+## Sysadmin  
 
 ## Interfaces
 ### Muscat API
 ### Sigla catalogue
+### BSB export
+Next on 20180720
