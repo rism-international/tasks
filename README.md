@@ -1,18 +1,32 @@
 # RISM IT task list  
 
-## I. Muscat Development  
-### 1. Work model (2018)
+## Table of Contents
+1. [Muscat Development](#muscat)
+    1. [Work model](#work)
+    2. [Validations](#validations)
+    3. [Rspec](#rspec)
+    4. [Thesaurus](#thesaurus)  
+    5. [Issues](#issues)  
+2. [Import](#import)
+3. [Maintenance](#maintenance)
+4. [Sysadmin](#sysadmin)
+5. [Interfaces](#interfaces)
+6. [Other](#other)  
+&nbsp;  
+
+## 1. Muscat Development <a name="muscat"></a>
+### 1. Work model (2018)  <a name="work"></a>
 Status: 30%  
 Should contain linkage to catalogue, standard_term; also including musical incipit, uri
 
-### 2. Validations
-### 3. Rspec
-### 4. Thesausus (2019)
+### 2. Validations  <a name="validations"></a>
+### 3. Rspec  <a name="rspec"></a>
+### 4. Thesausus (2019)  <a name="thesaurus"></a>
 Status: 0%
-### 5. Issue tracking  
+### 5. Issues   <a name="issues"></a>
 &nbsp;  
 
-## II. Import
+## 2. Import  <a name="import"></a>
 https://github.com/rism-international/import
 
 ### 1. ICCU (2018)
@@ -44,14 +58,14 @@ Excel sheet with about 15.000 names, 60% linkage to GND
 &nbsp;  
 
 
-## III. Maintenance  
+## 3. Maintenance   <a name="maintenance"></a>
 ### 1. Migration
 Fix some A/I issues from old migration, see https://github.com/rism-international/a1  
 <sub>[2018-07-18]</sub>   
 ### 2. Data 
 &nbsp;  
 
-## IV. Sysadmin  
+## 4. Sysadmin   <a name="sysadmin"></a>
 ### 1. Mailserver
 Issue concerning long running mails: all plugins should be deactivated, also there should be a test concerning DNS.  
 <sub>[2018-07-18]</sub>   
@@ -64,7 +78,7 @@ Rollout of Ubuntu 18.04 ca. **2018-09-01**
 &nbsp;  
 
 
-## V. Interfaces
+## 5. Interfaces  <a name="interfaces"></a>
 ### 1. Muscat API
 There should be a Restful API from Muscat with Rails 5.1, using serializers, with marc_source as json.
 
@@ -86,7 +100,7 @@ Latest release on 2018-07-16
 - [ ] data update on 2018-07-19  
 &nbsp;  
 
-## VI. Other
+## VI. Other  <a name="other"></a>
 ### 1. Hackathon on **2018-10-10**  
 ### 2. TOC for this readme 
 see https://github.com/ekalinin/github-markdown-toc  
