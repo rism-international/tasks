@@ -2,7 +2,7 @@
 
 ## Muscat Development  
 ### Work model (2018)
-Status: 30%
+Status: 30%  
 Should contain linkage to catalogue, standard_term; also including musical incipit, uri
 
 ### Validations
