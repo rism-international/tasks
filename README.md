@@ -13,6 +13,8 @@ Status: 0%
 
 
 ## Import
+https://github.com/rism-international/import
+
 ### ICCU (2018)
 Status: 80%  
 https://github.com/rism-international/iccu  
@@ -24,6 +26,10 @@ Status: 60%
 Status: 20%
 https://github.com/rism-international/sistina  
 <sub>[2018-07-18]</sub>  
+
+### Spain
+https://github.com/rism-international/import/tree/master/Spain/input
+
 
 ### ÖNB
 Status: 0%  
