@@ -10,7 +10,7 @@ Should contain linkage to catalogue, standard_term; also including musical incip
 ### 4. Thesausus (2019)
 Status: 0%
 ### 5. Issue tracking  
-
+&nbsp;  
 
 ## II. Import
 https://github.com/rism-international/import
@@ -40,7 +40,7 @@ Excel sheet with about 15.000 names, 60% linkage to GND
 <sub>[2018-07-18]</sub>  
 ### 5. Cambridge University Library
 ### 6. Fitzwilliam Museum
-
+&nbsp;  
 
 
 ## III. Maintenance  
@@ -48,7 +48,7 @@ Excel sheet with about 15.000 names, 60% linkage to GND
 Fix some A/I issues from old migration, see https://github.com/rism-international/a1  
 <sub>[2018-07-18]</sub>   
 ### 2. Data 
-
+&nbsp;  
 
 ## IV. Sysadmin  
 ### 1. Mailserver
@@ -60,7 +60,7 @@ Issue concerning long running mails: all plugins should be deactivated, also the
 
 ### 3. PC clients and infrastructure
 Rollout of Ubuntu 18.04 ca. **2018-09-01**
-
+&nbsp;  
 
 
 ## V. Interfaces
@@ -82,8 +82,8 @@ Last update 2018-06-18
 Latest release on 2018-07-16
 
 ### 6. OPAC translations
-- [ ] data update on 2018-07-19
-
+- [ ] data update on 2018-07-19  
+&nbsp;  
 
 ## VI. Other
 ### 1. Hackathon on **2018-10-10**  
