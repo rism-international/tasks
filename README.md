@@ -60,7 +60,7 @@ Issue concerning long running mails: all plugins should be deactivated, also the
 - [ ] Write to Digitale Akademie concerning running old instances
 
 ### 3. PC clients and infrastructure
-Rollout of Ubuntu 18.04 ca. **2018-09-01**
+Rollout of Ubuntu 18.04 ca. **2018-09-01**  
 &nbsp;  
 
 
