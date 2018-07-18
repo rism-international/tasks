@@ -9,6 +9,7 @@ Should contain linkage to catalogue, standard_term; also including musical incip
 ### Thesausus (2019)
 ### Issue tracking  
 
+
 ## Import
 ### ICCU (2018)
 https://github.com/rism-international/iccu  
@@ -19,21 +20,28 @@ https://github.com/rism-international/iccu
 https://github.com/rism-international/sistina  
 <sub>[2018-07-18]</sub>  
 ### Early motet
-
+### ÖNB
+Excel sheet with about 15.000 names, 60% linkage to GND  
+- [ ] create repository with data  
+- [ ] data analysis  
+<sub>[2018-07-18]</sub>  
 ## Maintenance  
 ### Migration
-Fix some A/I issues from old migration, see https://github.com/rism-international/a1
-
+Fix some A/I issues from old migration, see https://github.com/rism-international/a1  
+<sub>[2018-07-18]</sub>   
 ### Data 
 ## Sysadmin  
 ### Mailserver
 Issue concerning long running mails: all plugins should be deactivated, also there should be a test concerning DNS.  
-<sub>[2018-07-18]</sub>  
+<sub>[2018-07-18]</sub>   
+
 ### Webserver
 Write to Digitale Akademie concerning running old instances
 
 ### PC clients
 Rollout of Ubuntu 18.04 ca. **2018-09-01**
+
+
 
 ## Interfaces
 ### Muscat API
@@ -52,6 +60,13 @@ Last update 2018-06-18, next on **2018-07-20**
 ### OPAC development
 Latest release on 2018-07-16
 
-### Other
-Hackathon on **2018-10-10**  
-TOC for this readme see https://github.com/ekalinin/github-markdown-toc
+
+
+## Other
+### Hackathon on **2018-10-10**  
+### TOC for this readme 
+see https://github.com/ekalinin/github-markdown-toc  
+### RISM data service booklet
+https://github.com/rism-international/data-service-booklet  
+<sub>[2018-07-18]</sub>   
+
