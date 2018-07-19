@@ -53,9 +53,13 @@ Status: 0%
 ## 2. Import  <a name="import"></a>
 https://github.com/rism-international/import
 
-### 1. ICCU (2018) <a name="iccu"></a>
-Status: 80%  
+### 1. ICCU (2018) <a name="iccu"></a>  
 https://github.com/rism-international/iccu  
+
+Status | Size |  Testenv 
+--- | --- | --- |
+80% | 217.699 | iccu.rism.info | 
+
 <sub>[2018-07-18]</sub>   
 
 ### 2. BNF (2018) <a name="bnf"></a>
