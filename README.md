@@ -35,6 +35,7 @@
     6.1. [Hackathon](#hack)  
     6.2. [RISM data service booklet](#booklet)  
     6.3. [Early motet](#motet)  
+    6.4. [Canto: Gesangsschulen](#canto)  
 &nbsp;  
 
 ## 1. Muscat Development <a name="muscat"></a>
@@ -139,13 +140,11 @@ Latest release on 2018-07-16
 
 ## 6. Other  <a name="other"></a>
 ### 1. Hackathon on **2018-10-10**  <a name="hack"></a>
-### 2. TOC for this readme 
-see https://github.com/ekalinin/github-markdown-toc  
-### 3. RISM data service booklet <a name="booklet"></a>
+### 2. RISM data service booklet <a name="booklet"></a>
 - [ ] There should be an 2018/2019 update   
 https://github.com/rism-international/data-service-booklet  
 <sub>[2018-07-18]</sub>   
-### 4. Early motet <a name="motet"></a>
-### 4. Cantus project: Gesangschulen <a name="motet"></a>  
+### 3. Early motet <a name="motet"></a>
+### 4. Cantus project: Gesangschulen <a name="canto"></a>  
 see http://canto.rism.info  
 
