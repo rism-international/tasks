@@ -21,7 +21,7 @@
     3.2. [Data](#data)  
 4. [Sysadmin](#sysadmin)  
     4.1. [Mailserver](#mailserver)  
-    4.2.[Webserver](#webserver)  
+    4.2. [Webserver](#webserver)  
     4.3. [PC clients and infrastructure](#clients)  
     4.4. [Monitoring](#clients)  
 5. [Interfaces](#interfaces)  
@@ -110,7 +110,8 @@ Rollout of Ubuntu 18.04 ca. **2018-09-01**
 ### 4. Monitoring  <a name="clients"></a>  
 https://github.com/rism-international/monitor  
 Running monitors at zeus@dex monitor and ???@dex monitor.  
-*@BK: please add address of second monitor and some basic description*  
+*@BK: please add address of second monitor and some basic description*
+*@SH: I need acess to dev.lab to do this.*
 <sub>[2018-07-19]</sub>   
 
 ## 5. Interfaces  <a name="interfaces"></a>
