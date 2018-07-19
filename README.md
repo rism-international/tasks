@@ -96,6 +96,7 @@ Fix some A/I issues from old migration, see https://github.com/rism-internationa
 ## 4. Sysadmin   <a name="sysadmin"></a>
 ### 1. Mailserver <a name="mailserver"></a>
 Issue concerning long running mails: all plugins should be deactivated, also there should be a test concerning DNS.  
+*@BK: what's the status of this?  
 <sub>[2018-07-18]</sub>   
 
 ### 2. Webserver <a name="webserver"></a>
