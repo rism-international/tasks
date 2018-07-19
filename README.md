@@ -146,4 +146,6 @@ see https://github.com/ekalinin/github-markdown-toc
 https://github.com/rism-international/data-service-booklet  
 <sub>[2018-07-18]</sub>   
 ### 4. Early motet <a name="motet"></a>
+### 4. Cantus project: Gesangschulen <a name="motet"></a>  
+see http://canto.rism.info  
 
