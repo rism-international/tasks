@@ -111,7 +111,6 @@ Rollout of Ubuntu 18.04 ca. **2018-09-01**
 https://github.com/rism-international/monitor  
 Running monitors at zeus@dex monitor and ???@dex monitor.  
 *@BK: please add address of second monitor and some basic description*
-
 *@SH: I need acess to dev.lab to do this.*
 <sub>[2018-07-19]</sub>   
 
