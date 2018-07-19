@@ -96,7 +96,7 @@ Fix some A/I issues from old migration, see https://github.com/rism-internationa
 ## 4. Sysadmin   <a name="sysadmin"></a>
 ### 1. Mailserver <a name="mailserver"></a>
 Issue concerning long running mails: all plugins should be deactivated, also there should be a test concerning DNS.  
-*@BK: what's the status of this?*  
+
 <sub>[2018-07-18]</sub>   
 
 ### 2. Webserver <a name="webserver"></a>
@@ -106,6 +106,11 @@ Issue concerning long running mails: all plugins should be deactivated, also the
 Rollout of Ubuntu 18.04 ca. **2018-09-01**  
 &nbsp;  
 
+### 4. Monitoring 
+https://github.com/rism-international/monitor  
+Running monitors at zeus@dex monitor and ???@dex monitor.
+*@BK: please add address of second monitor and some basic description*  
+<sub>[2018-07-18]</sub>   
 
 ## 5. Interfaces  <a name="interfaces"></a>
 ### 1. Muscat API <a name="api"></a>
