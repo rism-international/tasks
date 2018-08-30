@@ -46,7 +46,8 @@
     1.1. [Hackathon](#hack)  
     1.2. [RISM data service booklet](#booklet)  
     1.3. [Early motet](#motet)  
-    1.4. [Canto: Gesangsschulen](#canto)  
+    1.4. [Canto: Gesangsschulen](#canto)
+    1.5. [Workflow](#workflow)
 &nbsp;  
 
 ## 1. Muscat Development <a name="muscat"></a>
@@ -157,5 +158,6 @@ https://github.com/rism-international/data-service-booklet
 <sub>[2018-07-18]</sub>   
 ### 3. Early motet <a name="motet"></a>
 ### 4. Cantus project: Gesangschulen <a name="canto"></a>  
-see http://canto.rism.info  
+see http://canto.rism.info
+### 5. Workflow 
 
