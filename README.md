@@ -1,41 +1,52 @@
-# RISM IT task list  
+# RISM IT department
 
 ## Table of Contents
-1. [Muscat Development](#muscat)  
+
+## I. Data management
+1. [Import](#import)  
+    1.1. [ICCU](#iccu)  
+    1.2. [BNF](#bnf)  
+    1.3. [Sistina](#sistina)  
+    1.4. [Spain](#spain)  
+    1.5. [ÖNB](#oebn)  
+    1.6. [Cambridge University Library](#cul)  
+    1.7. [Fitzwilliam Museum](#fitzwilliam)  
+2. [Maintenance](#maintenance)  
+    2.1. [Migration](#migration)  
+    2.2. [Data](#data)  
+3. [Interfaces](#interfaces)  
+    3.1. [Muscat API](#api)  
+    3.2. [PDF catalogue outprint](#pdf)  
+    3.3. [Sigla catalogue](#sigla)  
+    3.4. [BSB export](#bsb)  
+    3.5. [OPAC development](#opac)  
+    3.6. [OPAC translations](#translation)  
+
+## II. Muscat development
+1. [Development](#muscat)  
     1.1. [Work model](#work)  
-    1.2. [Validations](#validations)  
-    1.3. [Rspec](#rspec)  
+    1.2. [Validations](#validations)      
     1.4. [Thesaurus](#thesaurus)  
     1.5. [Issues](#issues)  
     1.6. [Prints](#prints)  
-2. [Import](#import)  
-    2.1. [ICCU](#iccu)  
-    2.2. [BNF](#bnf)  
-    2.3. [Sistina](#sistina)  
-    2.4. [Spain](#spain)  
-    2.5. [ÖNB](#oebn)  
-    2.6. [Cambridge University Library](#cul)  
-    2.7. [Fitzwilliam Museum](#fitzwilliam)  
-3. [Maintenance](#maintenance)  
-    3.1. [Migration](#migration)  
-    3.2. [Data](#data)  
-4. [Sysadmin](#sysadmin)  
-    4.1. [Mailserver](#mailserver)  
-    4.2. [Webserver](#webserver)  
+2. Quality assurance  
+    2.1. [Rspec](#rspec)  
+    2.2. Checklists  
+
+## III. Internet services and infrastructure
+1. Internet services  
+    1.1. [Mailserver](#mailserver)  
+    1.2. [Webserver](#webserver)  
+2. [Sysadmin](#sysadmin)  
     4.3. [PC clients and infrastructure](#clients)  
     4.4. [Monitoring](#clients)  
-5. [Interfaces](#interfaces)  
-    5.1. [Muscat API](#api)  
-    5.2. [PDF catalogue outprint](#pdf)  
-    5.3. [Sigla catalogue](#sigla)  
-    5.4. [BSB export](#bsb)  
-    5.5. [OPAC development](#opac)  
-    5.6. [OPAC translations](#translation)  
-6. [Other](#other)    
-    6.1. [Hackathon](#hack)  
-    6.2. [RISM data service booklet](#booklet)  
-    6.3. [Early motet](#motet)  
-    6.4. [Canto: Gesangsschulen](#canto)  
+
+## IV. Other
+1. [Other](#other)    
+    1.1. [Hackathon](#hack)  
+    1.2. [RISM data service booklet](#booklet)  
+    1.3. [Early motet](#motet)  
+    1.4. [Canto: Gesangsschulen](#canto)  
 &nbsp;  
 
 ## 1. Muscat Development <a name="muscat"></a>
