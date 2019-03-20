@@ -80,8 +80,9 @@ Status | Size |  Testenv
 Status: 60%  
 
 ### 3. Sistina <a name="sistina"></a>
-Status: 20%
-https://github.com/rism-international/sistina  
+Status: 80%
+https://github.com/rism-international/sistina
+https://sistina.rism.info
 <sub>[2018-07-18]</sub>  
 
 ### 4. Spain <a name="spain"></a>
@@ -122,11 +123,9 @@ Rollout of Ubuntu 18.04 ca. **2018-09-01**
 
 ### 4. Monitoring  <a name="clients"></a>  
 https://github.com/rism-international/monitor  
-Running monitors at zeus@dex monitor and ???@dex monitor.  
-*@BK: please add address of second monitor and some basic description*
-
-*@SH: I need acess to dev.lab to do this.*
-<sub>[2018-07-19]</sub>   
+Running monitors at zeus.rism.info monitor and mail.rism.info monitor.  
+<sub>[2018-07-19]</sub> 
+https://github.com/rism-international/monitoring
 
 ## 5. Interfaces  <a name="interfaces"></a>
 ### 1. Muscat API <a name="api"></a>
@@ -152,12 +151,14 @@ Latest release on 2018-07-16
 
 ## 6. Other  <a name="other"></a>
 ### 1. Hackathon on **2018-10-10**  <a name="hack"></a>
+http://www.rism.info/en/home/newsdetails/article/2/rism-at-the-coding-da-vinci-2018-hackathon.html
 ### 2. RISM data service booklet <a name="booklet"></a>
 - [ ] There should be an 2018/2019 update   
 https://github.com/rism-international/data-service-booklet  
 <sub>[2018-07-18]</sub>   
 ### 3. Early motet <a name="motet"></a>
 ### 4. Cantus project: Gesangschulen <a name="canto"></a>  
-see http://canto.rism.info
+see https://canto.rism.info
+https://github.com/rism-international/canto
 ### 5. Workflow 
 
