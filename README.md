@@ -48,6 +48,7 @@
     1.3. [Early motet](#motet)  
     1.4. [Canto: Gesangsschulen](#canto)
     1.5. [Workflow](#workflow)
+
 &nbsp;  
 
 ## 1. Muscat Development <a name="muscat"></a>
