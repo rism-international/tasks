@@ -82,7 +82,9 @@ Status: 60%
 ### 3. Sistina <a name="sistina"></a>
 Status: 80%
 https://github.com/rism-international/sistina
+
 https://sistina.rism.info
+
 <sub>[2018-07-18]</sub>  
 
 ### 4. Spain <a name="spain"></a>
@@ -97,14 +99,16 @@ Excel sheet with about 15.000 names, 60% linkage to GND
 - [ ] data analysis  
 <sub>[2018-07-18]</sub>  
 ### 6. Cambridge University Library <a name="cul"></a>
+
 ### 7. Fitzwilliam Museum <a name="fitzwilliam"></a>
 &nbsp;  
 
-
 ## 3. Maintenance   <a name="maintenance"></a>
+
 ### 1. Migration <a name="migration"></a>
 Fix some A/I issues from old migration, see https://github.com/rism-international/a1  
 <sub>[2018-07-18]</sub>   
+
 ### 2. Data <a name="data"></a>
 &nbsp;  
 
@@ -123,8 +127,10 @@ Rollout of Ubuntu 18.04 ca. **2018-09-01**
 
 ### 4. Monitoring  <a name="clients"></a>  
 https://github.com/rism-international/monitor  
+
 Running monitors at zeus.rism.info monitor and mail.rism.info monitor.  
 <sub>[2018-07-19]</sub> 
+
 https://github.com/rism-international/monitoring
 
 ## 5. Interfaces  <a name="interfaces"></a>
@@ -158,7 +164,15 @@ https://github.com/rism-international/data-service-booklet
 <sub>[2018-07-18]</sub>   
 ### 3. Early motet <a name="motet"></a>
 ### 4. Cantus project: Gesangschulen <a name="canto"></a>  
+
 see https://canto.rism.info
+
 https://github.com/rism-international/canto
+
 ### 5. Workflow 
 
+- this file
+- https://github.com/rism-international/tasks
+- https://github.com/rism-international/tasks/projects
+- https://github.com/rism-international
+- sessions of the zentralredaktion and the protokols on x/Office\ Dokumente/Protokolle/
