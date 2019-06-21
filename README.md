@@ -47,7 +47,7 @@
 1. [Other](#other)    
     1.1. [RISM data service booklet](#booklet)  
     1.2. [Early motet](#motet)  
-    1.3. [Canto: Gesangsschulen](#canto)
+    1.3. [Canto: Gesangsschulen](#canto)  
     1.4. [Workflow](#workflow)
 
 &nbsp;  
