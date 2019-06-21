@@ -32,7 +32,8 @@
     1.4. [Thesaurus](#thesaurus)  
     1.5. [Issues](#issues)  
     1.6. [Prints](#prints)  
-    1.7. [Template change](#template)
+    1.7. [Template change](#template)  
+    1.8. [LOD](#lod)
 2. Quality assurance  
     2.1. [Rspec](#rspec)  
     2.2. Checklists  
@@ -74,6 +75,11 @@ see https://github.com/rism-international/tasks/issues and https://github.com/ri
 &nbsp;  
 ### 7. Template change <a name="template"></a>  
 Added initially in 5.2, should be refined later (Muscat 6)  
+
+### 8. LOD <a name="lod"></a>  
+Requirement to provide access to a sparql-endpoint and synchronized RDF ontology, probably via bibframe or schema.org  
+
+
 ## 2. Import  <a name="import"></a>
 https://github.com/rism-international/import
 
