@@ -23,6 +23,7 @@
     3.4. [BSB export](#bsb)  
     3.5. [OPAC development](#opac)  
     3.6. [OPAC translations](#translation)  
+    3.7. [SRU Interface](#sru)
 
 ## II. Muscat development
 1. [Development](#muscat)  
@@ -31,6 +32,7 @@
     1.4. [Thesaurus](#thesaurus)  
     1.5. [Issues](#issues)  
     1.6. [Prints](#prints)  
+    1.7. [Template change](#template)
 2. Quality assurance  
     2.1. [Rspec](#rspec)  
     2.2. Checklists  
@@ -70,7 +72,8 @@ see https://github.com/rism-international/tasks/issues and https://github.com/ri
 ### 6. Prints   <a name="prints"></a>
 - [ ] There should be an improved search for holdings  
 &nbsp;  
-
+### 7. Template change <a name="template"></a>  
+Added initially in 5.2, should be refined later (Muscat 6)  
 ## 2. Import  <a name="import"></a>
 https://github.com/rism-international/import
 
@@ -173,6 +176,10 @@ Latest release on 2018-07-16
 
 ### 6. OPAC translations <a name="translation"></a>
 - [ ] data update on 2018-07-19  
+
+### 7. SRU Interafce <a name="sru"></a>
+Should include work entity as MarcClass
+
 &nbsp;  
 
 
