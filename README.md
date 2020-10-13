@@ -38,16 +38,14 @@
     2.1. [Rspec](#rspec)  
     2.2. Checklists  
 
-## III. Internet services and infrastructure
+## III. IT-Services
 1. Internet services  
     1.1. [Mailserver](#mailserver)  
     1.2. [Webserver](#webserver)  
 2. [Sysadmin](#sysadmin)  
     4.3. [PC clients and infrastructure](#clients)  
     4.4. [Monitoring](#clients)  
-
-## IV. Other
-1. [Other](#other)    
+3. [Other](#other)    
     1.1. [RISM data service booklet](#booklet)  
     1.2. [Early motet](#motet)  
     1.3. [Canto: Gesangsschulen](#canto)  
