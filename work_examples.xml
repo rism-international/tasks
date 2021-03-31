@@ -1,0 +1,367 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<marc:record>
+<marc:controlfield tag="001">186</marc:controlfield>
+<marc:controlfield tag="003">DE-633</marc:controlfield>
+<marc:controlfield tag="005">20190228091830.0</marc:controlfield>
+<marc:datafield tag="024" ind1="7" ind2=" ">
+<marc:subfield code="a">316769161</marc:subfield>
+<marc:subfield code="2">VIAF</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="024" ind1="7" ind2=" ">
+<marc:subfield code="a">1074118340</marc:subfield>
+<marc:subfield code="2">DNB</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DE-633</marc:subfield>
+<marc:subfield code="b">ger</marc:subfield>
+<marc:subfield code="c">DE-633</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Lechner, Leonhard</marc:subfield>
+<marc:subfield code="d">1553c-1606</marc:subfield>
+<marc:subfield code="t">Neue lustige teutsche Lieder nach Art der Welschen Canzonen</marc:subfield>
+<marc:subfield code="0">30013110</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Lechner, Leonhard</marc:subfield>
+<marc:subfield code="d">1553c-1606</marc:subfield>
+<marc:subfield code="t">Neue lustige deutsche Lieder nach Art der Welschen Canzonen</marc:subfield>
+<marc:subfield code="0">30013110</marc:subfield>
+</marc:datafield>
+</marc:record>
+<marc:record>
+<marc:controlfield tag="001">874</marc:controlfield>
+<marc:controlfield tag="003">DE-633</marc:controlfield>
+<marc:controlfield tag="005">20210226144540.0</marc:controlfield>
+<marc:datafield tag="024" ind1="7" ind2=" ">
+<marc:subfield code="a">183502036</marc:subfield>
+<marc:subfield code="2">VIAF</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="024" ind1="7" ind2=" ">
+<marc:subfield code="a">n 85076556</marc:subfield>
+<marc:subfield code="2">LC</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DE-633</marc:subfield>
+<marc:subfield code="b">ger</marc:subfield>
+<marc:subfield code="c">DE-633</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="n">TWV 55:G10</marc:subfield>
+<marc:subfield code="r">G-Dur</marc:subfield>
+<marc:subfield code="t">Overtures</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Suite D. Quixote (Overture)</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Suite Don Quixote</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Don Quixote (Overture)</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Ouverture, Burlesque de Quixotte</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Don Quichotte (Overture)</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Don Quixote suite</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="n">TWV 55:G10,</marc:subfield>
+<marc:subfield code="r">G major</marc:subfield>
+<marc:subfield code="t">Overtures,</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Bourlesque de Quixotte</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Don Quichotte-Suite</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Telemann, Georg Philipp</marc:subfield>
+<marc:subfield code="d">1681-1767</marc:subfield>
+<marc:subfield code="t">Suite burlesque de Quixotte</marc:subfield>
+<marc:subfield code="0">126287</marc:subfield>
+</marc:datafield>
+</marc:record>
+<marc:record>
+<marc:controlfield tag="001">399</marc:controlfield>
+<marc:controlfield tag="003">DE-633</marc:controlfield>
+<marc:controlfield tag="005">20200219121546.0</marc:controlfield>
+<marc:datafield tag="024" ind1="7" ind2=" ">
+<marc:subfield code="a">181948622</marc:subfield>
+<marc:subfield code="2">VIAF</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="024" ind1="7" ind2=" ">
+<marc:subfield code="a">n 95055949</marc:subfield>
+<marc:subfield code="2">LC</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="031" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="d">Allegro con spirito</marc:subfield>
+<marc:subfield code="g">G-2</marc:subfield>
+<marc:subfield code="o">c/</marc:subfield>
+<marc:subfield code="p">'4C{8.C6C}4CC/DDEE/2F,bA/G-/</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="031" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+<marc:subfield code="b">2</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="d">Adagio</marc:subfield>
+<marc:subfield code="g">G-2</marc:subfield>
+<marc:subfield code="n">bB</marc:subfield>
+<marc:subfield code="o">2/4</marc:subfield>
+<marc:subfield code="p">'4FF/G8A''F/{EDC'B}{BAt}6{G''C'BG}/</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="031" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+<marc:subfield code="b">3</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="d">Vivace assai</marc:subfield>
+<marc:subfield code="g">G-2</marc:subfield>
+<marc:subfield code="o">c/</marc:subfield>
+<marc:subfield code="p">4-''CCC/'B''C2F/4-DDD/CE2G+/4G</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DE-633</marc:subfield>
+<marc:subfield code="b">ger</marc:subfield>
+<marc:subfield code="c">DE-633</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Hummel, Johann Nepomuk</marc:subfield>
+<marc:subfield code="d">1778-1837</marc:subfield>
+<marc:subfield code="m">pf, orch</marc:subfield>
+<marc:subfield code="n">op. 34; ZimH 34 [a]</marc:subfield>
+<marc:subfield code="r">C</marc:subfield>
+<marc:subfield code="t">Concertos </marc:subfield>
+<marc:subfield code="0">107007</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Hummel, Johann Nepomuk</marc:subfield>
+<marc:subfield code="d">1778-1837</marc:subfield>
+<marc:subfield code="m">piano, orchestra,</marc:subfield>
+<marc:subfield code="n">no. 2, op. 44,</marc:subfield>
+<marc:subfield code="r">C</marc:subfield>
+<marc:subfield code="t">Concertos,</marc:subfield>
+<marc:subfield code="0">107007</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Hummel, Johann Nepomuk</marc:subfield>
+<marc:subfield code="d">1778-1837</marc:subfield>
+<marc:subfield code="m">piano, orchestra,</marc:subfield>
+<marc:subfield code="n">op. 36,</marc:subfield>
+<marc:subfield code="r">C</marc:subfield>
+<marc:subfield code="t">Concertos,</marc:subfield>
+<marc:subfield code="0">107007</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Hummel, Johann Nepomuk</marc:subfield>
+<marc:subfield code="d">1778-1837</marc:subfield>
+<marc:subfield code="m">piano, orchestra,</marc:subfield>
+<marc:subfield code="n">op. 34,</marc:subfield>
+<marc:subfield code="r">C</marc:subfield>
+<marc:subfield code="t">Concertos,</marc:subfield>
+<marc:subfield code="0">107007</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="670" ind1=" " ind2=" ">
+<marc:subfield code="a">ZimH</marc:subfield>
+<marc:subfield code="b">34 [a]</marc:subfield>
+<marc:subfield code="w">272</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="680" ind1=" " ind2=" ">
+<marc:subfield code="a">Incipits nach ZimH</marc:subfield>
+</marc:datafield>
+</marc:record>
+<marc:record>
+<marc:controlfield tag="001">12</marc:controlfield>
+<marc:controlfield tag="003">DE-633</marc:controlfield>
+<marc:controlfield tag="005">20200219120120.0</marc:controlfield>
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DE-633</marc:subfield>
+<marc:subfield code="b">ger</marc:subfield>
+<marc:subfield code="c">DE-633</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Schumann, Robert</marc:subfield>
+<marc:subfield code="d">1810-1856</marc:subfield>
+<marc:subfield code="m">Coro femminile, pf</marc:subfield>
+<marc:subfield code="n">Frauenliebe und Leben; Excerpts; Arr</marc:subfield>
+<marc:subfield code="r">C</marc:subfield>
+<marc:subfield code="t">Seit ich ihn gesehen; Arr; Lieder; Partsongs; McCS. 42/1</marc:subfield>
+<marc:subfield code="0">131206</marc:subfield>
+</marc:datafield>
+</marc:record>
+<marc:record>
+<marc:controlfield tag="001">148</marc:controlfield>
+<marc:controlfield tag="003">DE-633</marc:controlfield>
+<marc:controlfield tag="005">20201124123936.0</marc:controlfield>
+<marc:datafield tag="024" ind1="7" ind2=" ">
+<marc:subfield code="a">175450053</marc:subfield>
+<marc:subfield code="2">VIAF</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="024" ind1="7" ind2=" ">
+<marc:subfield code="a">n 88636710</marc:subfield>
+<marc:subfield code="2">LC</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="031" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="g">g-2</marc:subfield>
+<marc:subfield code="m">S</marc:subfield>
+<marc:subfield code="n">bBE</marc:subfield>
+<marc:subfield code="o">c2</marc:subfield>
+<marc:subfield code="p">9,B/1'CD/EE/9D/2-C1F/9G/2.F4EDC2,B/9'C/,B/G/</marc:subfield>
+<marc:subfield code="q">Incipit nach NJE</marc:subfield>
+<marc:subfield code="t">Absalon fili mi</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="031" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">2</marc:subfield>
+<marc:subfield code="g">F-4</marc:subfield>
+<marc:subfield code="m">A</marc:subfield>
+<marc:subfield code="n">bBE</marc:subfield>
+<marc:subfield code="o">c2</marc:subfield>
+<marc:subfield code="p">=2/9,E/1FG/bAA/9G/1-1.G4FE1F/9G/</marc:subfield>
+<marc:subfield code="q">Incipit nach NJE</marc:subfield>
+<marc:subfield code="t">Absalon fili mi, fili mi Absalon</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="031" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">3</marc:subfield>
+<marc:subfield code="g">F-4</marc:subfield>
+<marc:subfield code="m">T</marc:subfield>
+<marc:subfield code="n">bBEA</marc:subfield>
+<marc:subfield code="o">c2</marc:subfield>
+<marc:subfield code="p">=3/9,,B/1,CD/EE/D2-1D4C,,B,2CD/1E2D1E4DC2ED/1ED/</marc:subfield>
+<marc:subfield code="q">Incipit nach NJE</marc:subfield>
+<marc:subfield code="t">Absalon fili mi, fili mi Absalon</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="031" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+<marc:subfield code="b">1</marc:subfield>
+<marc:subfield code="c">4</marc:subfield>
+<marc:subfield code="g">F-4</marc:subfield>
+<marc:subfield code="m">B</marc:subfield>
+<marc:subfield code="n">bBEAD</marc:subfield>
+<marc:subfield code="o">c2</marc:subfield>
+<marc:subfield code="p">=5/9,,E/1FG/AA/9G/1-G/BB/FF/1.A4GF/9E/</marc:subfield>
+<marc:subfield code="q">Incipit nach NJE</marc:subfield>
+<marc:subfield code="t">Absalon fili mi, fili mi Absalon</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="040" ind1=" " ind2=" ">
+<marc:subfield code="a">DE-633</marc:subfield>
+<marc:subfield code="b">ger</marc:subfield>
+<marc:subfield code="c">DE-633</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Josquin des Prez</marc:subfield>
+<marc:subfield code="d">1450p-1521</marc:subfield>
+<marc:subfield code="m">V (4)</marc:subfield>
+<marc:subfield code="t">Absalon fili mi [NJE 14.1]</marc:subfield>
+<marc:subfield code="0">20000367</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="380" ind1=" " ind2=" ">
+<marc:subfield code="a">Motets</marc:subfield>
+<marc:subfield code="0">25240</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Baston, Josquin</marc:subfield>
+<marc:subfield code="d">16.sc</marc:subfield>
+<marc:subfield code="t">Absalom, fili mi</marc:subfield>
+<marc:subfield code="0">30007183</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Baston, Josquin</marc:subfield>
+<marc:subfield code="d">16.sc</marc:subfield>
+<marc:subfield code="t">Absalon, oh my son</marc:subfield>
+<marc:subfield code="0">30007183</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Baston, Josquin</marc:subfield>
+<marc:subfield code="d">16.sc</marc:subfield>
+<marc:subfield code="t">O Absalom, my son</marc:subfield>
+<marc:subfield code="0">30007183</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="400" ind1="1" ind2=" ">
+<marc:subfield code="a">Baston, Josquin</marc:subfield>
+<marc:subfield code="d">16.sc</marc:subfield>
+<marc:subfield code="t">Absalon, fili mi</marc:subfield>
+<marc:subfield code="0">30007183</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="548" ind1=" " ind2=" ">
+<marc:subfield code="a">ca. 1490-1510</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="670" ind1=" " ind2=" ">
+<marc:subfield code="a">NJE </marc:subfield>
+<marc:subfield code="b">vol. 14, p. 1-4 [E]</marc:subfield>
+<marc:subfield code="w">3778</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="670" ind1=" " ind2=" ">
+<marc:subfield code="a">OsthoffJ 1962</marc:subfield>
+<marc:subfield code="b">p. 382-384 [E]</marc:subfield>
+<marc:subfield code="w">30027411</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="670" ind1=" " ind2=" ">
+<marc:subfield code="a">CMM 97</marc:subfield>
+<marc:subfield code="b">vol. 9 (1996), p. 204-208, 227-230 [E]</marc:subfield>
+<marc:subfield code="w">30023733</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="670" ind1=" " ind2=" ">
+<marc:subfield code="a">SmijersJ 1921</marc:subfield>
+<marc:subfield code="b">Supplement (1969), no. 5, arl. 55 [E]</marc:subfield>
+<marc:subfield code="w">1448</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="670" ind1=" " ind2=" ">
+<marc:subfield code="a">ToftP 1983</marc:subfield>
+<marc:subfield code="b">[E]</marc:subfield>
+<marc:subfield code="w">41002079</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="680" ind1=" " ind2=" ">
+<marc:subfield code="a">Text: specially written; is based on 2 Samuel 18:33, probable Genesis 37:35 and Job 7:16</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="680" ind1=" " ind2=" ">
+<marc:subfield code="a">Manuscript [S]: GB-Lbl Royal 8 G. vii, f. 56'-58 (anonym).</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="680" ind1=" " ind2=" ">
+<marc:subfield code="a">Early printed Editions [S]: Selectissimae nevnon familiarissimae cantiones... (Augsburg: M. Kriesstein, 1540), no. 24, IOSQUIN. Tertia pars operis musici... (Nuremberg: Montanus & Neuber, 1559), no. 10, IOSQUIN DE PRES (SA), JOSQUIN (TB). Intabulations: Tabulaturbuch auff die Lauten von Moteten frantzösischen-welschen und teütschen geystlichen und weltlichen Liedern... (Heidelberg: J. Kohlen, 1558), ff. 30-31', Iosquin de Pres.</marc:subfield>
+</marc:datafield>
+</marc:record>
+</marc:collection>
